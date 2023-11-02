@@ -1,0 +1,4 @@
+Create template from existing template , increase readabilty.
+Derived Class Syntax
+
+class derivedClassName : visibilityMode baseClassName

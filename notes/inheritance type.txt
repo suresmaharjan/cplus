@@ -1,0 +1,20 @@
+Base Class
+-The existing class is called base class.
+
+Derived Class
+-The new class which is inherited is called derived class.
+
+Types of inheritance
+-Single inheritance
+	A derive class with only one base class.
+ -Multiple Inheritance
+	A derive class with more than one Base Class
+
+-Hierarchial Inheritance
+	Several derived class from a single base class.
+
+-Multilevel Inheritance
+	deriving a class from already derived class.
+
+-Hybrid inheritance
+	combination of multiple inheritance and multilevel inheritance.
