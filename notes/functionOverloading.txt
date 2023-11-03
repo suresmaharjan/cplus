@@ -1,0 +1,13 @@
+Function Overloading is a feature of object oriented programming  where two or more  functions can have same name
+but different parameters. When a function name is overloaded
+with different jobs it is called function overloading.
+
+in function overloading function name should be same but arguments should be different.
+
+Unlike other programming languages, JavaScript Does not support Function Overloading.
+
+ The above function will be 
+   overwritten by the function  
+   below, and the below function  
+   will be executed for any number 
+   and any type of arguments 
