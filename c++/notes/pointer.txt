@@ -1,0 +1,9 @@
+Pointer
+& ampersand address of operator
+* dereference (value at) operator;
+
+Pointer Arithmetic Array
+is a data type which holds the address of other data type;
+
+POINTER TO POINTER 
+-pointer which stores the address of pointer.
